@@ -1,0 +1,13 @@
+D:\VSPrj\OOP4cpp\OOP4cs\bin\Debug\netcoreapp3.1\OOP4cs.exe
+D:\VSPrj\OOP4cpp\OOP4cs\bin\Debug\netcoreapp3.1\OOP4cs.deps.json
+D:\VSPrj\OOP4cpp\OOP4cs\bin\Debug\netcoreapp3.1\OOP4cs.runtimeconfig.json
+D:\VSPrj\OOP4cpp\OOP4cs\bin\Debug\netcoreapp3.1\OOP4cs.runtimeconfig.dev.json
+D:\VSPrj\OOP4cpp\OOP4cs\bin\Debug\netcoreapp3.1\OOP4cs.dll
+D:\VSPrj\OOP4cpp\OOP4cs\bin\Debug\netcoreapp3.1\OOP4cs.pdb
+D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.AssemblyInfoInputs.cache
+D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.AssemblyInfo.cs
+D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.dll
+D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.pdb
+D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.csprojAssemblyReference.cache
+D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.csproj.CoreCompileInputs.cache
+D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.genruntimeconfig.cache
