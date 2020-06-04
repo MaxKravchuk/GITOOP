@@ -1,0 +1,6 @@
+﻿  OOP6pp.cpp
+D:\VSPrj\OOP6\OOP6pp\OOP6pp.cpp(22,20): warning C4101: i: неиспользованная локальная переменная
+D:\VSPrj\OOP6\OOP6pp\OOP6pp.cpp(30,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\VSPrj\OOP6\OOP6pp\OOP6pp.cpp(42,20): warning C4101: i: неиспользованная локальная переменная
+D:\VSPrj\OOP6\OOP6pp\OOP6pp.cpp(47,23): warning C4101: i: неиспользованная локальная переменная
+  OOP6pp.vcxproj -> D:\VSPrj\OOP6\Debug\OOP6pp.exe
