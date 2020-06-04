@@ -1,0 +1,6 @@
+E:\VSProjs\BityOper\BityOpCS\bin\Debug\BityOpCS.exe.config
+E:\VSProjs\BityOper\BityOpCS\bin\Debug\BityOpCS.exe
+E:\VSProjs\BityOper\BityOpCS\bin\Debug\BityOpCS.pdb
+E:\VSProjs\BityOper\BityOpCS\obj\Debug\BityOpCS.csprojAssemblyReference.cache
+E:\VSProjs\BityOper\BityOpCS\obj\Debug\BityOpCS.exe
+E:\VSProjs\BityOper\BityOpCS\obj\Debug\BityOpCS.pdb
