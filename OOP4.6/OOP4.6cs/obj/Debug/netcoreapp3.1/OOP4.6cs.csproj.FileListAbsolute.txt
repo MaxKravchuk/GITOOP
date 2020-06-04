@@ -1,0 +1,13 @@
+D:\VSPrj\OOP4.6\OOP4.6cs\bin\Debug\netcoreapp3.1\OOP4.6cs.exe
+D:\VSPrj\OOP4.6\OOP4.6cs\bin\Debug\netcoreapp3.1\OOP4.6cs.deps.json
+D:\VSPrj\OOP4.6\OOP4.6cs\bin\Debug\netcoreapp3.1\OOP4.6cs.runtimeconfig.json
+D:\VSPrj\OOP4.6\OOP4.6cs\bin\Debug\netcoreapp3.1\OOP4.6cs.runtimeconfig.dev.json
+D:\VSPrj\OOP4.6\OOP4.6cs\bin\Debug\netcoreapp3.1\OOP4.6cs.dll
+D:\VSPrj\OOP4.6\OOP4.6cs\bin\Debug\netcoreapp3.1\OOP4.6cs.pdb
+D:\VSPrj\OOP4.6\OOP4.6cs\obj\Debug\netcoreapp3.1\OOP4.6cs.csprojAssemblyReference.cache
+D:\VSPrj\OOP4.6\OOP4.6cs\obj\Debug\netcoreapp3.1\OOP4.6cs.csproj.CoreCompileInputs.cache
+D:\VSPrj\OOP4.6\OOP4.6cs\obj\Debug\netcoreapp3.1\OOP4.6cs.AssemblyInfoInputs.cache
+D:\VSPrj\OOP4.6\OOP4.6cs\obj\Debug\netcoreapp3.1\OOP4.6cs.AssemblyInfo.cs
+D:\VSPrj\OOP4.6\OOP4.6cs\obj\Debug\netcoreapp3.1\OOP4.6cs.dll
+D:\VSPrj\OOP4.6\OOP4.6cs\obj\Debug\netcoreapp3.1\OOP4.6cs.pdb
+D:\VSPrj\OOP4.6\OOP4.6cs\obj\Debug\netcoreapp3.1\OOP4.6cs.genruntimeconfig.cache
