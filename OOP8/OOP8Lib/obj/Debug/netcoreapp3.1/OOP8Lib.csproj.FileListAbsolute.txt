@@ -1,0 +1,8 @@
+D:\VSPrj\OOP8\OOP8Lib\bin\Debug\netcoreapp3.1\OOP8Lib.deps.json
+D:\VSPrj\OOP8\OOP8Lib\bin\Debug\netcoreapp3.1\OOP8Lib.dll
+D:\VSPrj\OOP8\OOP8Lib\bin\Debug\netcoreapp3.1\OOP8Lib.pdb
+D:\VSPrj\OOP8\OOP8Lib\obj\Debug\netcoreapp3.1\OOP8Lib.csproj.CoreCompileInputs.cache
+D:\VSPrj\OOP8\OOP8Lib\obj\Debug\netcoreapp3.1\OOP8Lib.AssemblyInfoInputs.cache
+D:\VSPrj\OOP8\OOP8Lib\obj\Debug\netcoreapp3.1\OOP8Lib.AssemblyInfo.cs
+D:\VSPrj\OOP8\OOP8Lib\obj\Debug\netcoreapp3.1\OOP8Lib.dll
+D:\VSPrj\OOP8\OOP8Lib\obj\Debug\netcoreapp3.1\OOP8Lib.pdb

@@ -1,0 +1,13 @@
+D:\VSPrj\OOP8\OOP8\bin\Debug\netcoreapp3.1\OOP8.exe
+D:\VSPrj\OOP8\OOP8\bin\Debug\netcoreapp3.1\OOP8.deps.json
+D:\VSPrj\OOP8\OOP8\bin\Debug\netcoreapp3.1\OOP8.runtimeconfig.json
+D:\VSPrj\OOP8\OOP8\bin\Debug\netcoreapp3.1\OOP8.runtimeconfig.dev.json
+D:\VSPrj\OOP8\OOP8\bin\Debug\netcoreapp3.1\OOP8.dll
+D:\VSPrj\OOP8\OOP8\bin\Debug\netcoreapp3.1\OOP8.pdb
+D:\VSPrj\OOP8\OOP8\obj\Debug\netcoreapp3.1\OOP8.csprojAssemblyReference.cache
+D:\VSPrj\OOP8\OOP8\obj\Debug\netcoreapp3.1\OOP8.csproj.CoreCompileInputs.cache
+D:\VSPrj\OOP8\OOP8\obj\Debug\netcoreapp3.1\OOP8.AssemblyInfoInputs.cache
+D:\VSPrj\OOP8\OOP8\obj\Debug\netcoreapp3.1\OOP8.AssemblyInfo.cs
+D:\VSPrj\OOP8\OOP8\obj\Debug\netcoreapp3.1\OOP8.dll
+D:\VSPrj\OOP8\OOP8\obj\Debug\netcoreapp3.1\OOP8.pdb
+D:\VSPrj\OOP8\OOP8\obj\Debug\netcoreapp3.1\OOP8.genruntimeconfig.cache

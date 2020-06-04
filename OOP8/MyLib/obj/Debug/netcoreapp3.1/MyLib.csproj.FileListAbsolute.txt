@@ -1,0 +1,8 @@
+D:\VSPrj\OOP8\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+D:\VSPrj\OOP8\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+D:\VSPrj\OOP8\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+D:\VSPrj\OOP8\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+D:\VSPrj\OOP8\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+D:\VSPrj\OOP8\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+D:\VSPrj\OOP8\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+D:\VSPrj\OOP8\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb
