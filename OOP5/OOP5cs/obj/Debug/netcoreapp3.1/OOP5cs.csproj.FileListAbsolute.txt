@@ -1,0 +1,13 @@
+D:\VSPrj\OOP5\OOP5cs\bin\Debug\netcoreapp3.1\OOP5cs.exe
+D:\VSPrj\OOP5\OOP5cs\bin\Debug\netcoreapp3.1\OOP5cs.deps.json
+D:\VSPrj\OOP5\OOP5cs\bin\Debug\netcoreapp3.1\OOP5cs.runtimeconfig.json
+D:\VSPrj\OOP5\OOP5cs\bin\Debug\netcoreapp3.1\OOP5cs.runtimeconfig.dev.json
+D:\VSPrj\OOP5\OOP5cs\bin\Debug\netcoreapp3.1\OOP5cs.dll
+D:\VSPrj\OOP5\OOP5cs\bin\Debug\netcoreapp3.1\OOP5cs.pdb
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.csprojAssemblyReference.cache
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.AssemblyInfoInputs.cache
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.AssemblyInfo.cs
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.dll
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.pdb
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.csproj.CoreCompileInputs.cache
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Flink\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Flink\\.nuget\\packages"
+    ]
+  }
+}

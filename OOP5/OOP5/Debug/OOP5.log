@@ -1,0 +1,5 @@
+﻿  OOP5.cpp
+D:\VSPrj\OOP5\OOP5\OOP5.cpp(54,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VSPrj\OOP5\OOP5\OOP5.cpp(80,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VSPrj\OOP5\OOP5\OOP5.cpp(100,27): warning C4018: <: несоответствие типов со знаком и без знака
+  OOP5.vcxproj -> D:\VSPrj\OOP5\Debug\OOP5.exe
