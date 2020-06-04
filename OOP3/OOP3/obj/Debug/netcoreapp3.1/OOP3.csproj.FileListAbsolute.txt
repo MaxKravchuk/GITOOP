@@ -1,0 +1,13 @@
+D:\VSPrj\OOP3\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+D:\VSPrj\OOP3\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+D:\VSPrj\OOP3\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+D:\VSPrj\OOP3\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+D:\VSPrj\OOP3\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+D:\VSPrj\OOP3\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+D:\VSPrj\OOP3\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+D:\VSPrj\OOP3\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+D:\VSPrj\OOP3\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+D:\VSPrj\OOP3\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+D:\VSPrj\OOP3\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+D:\VSPrj\OOP3\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+D:\VSPrj\OOP3\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache

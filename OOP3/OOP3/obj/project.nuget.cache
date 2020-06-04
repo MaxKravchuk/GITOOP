@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "btR62y53wYzq+XPvlAYaYO56+smuq6DWox0oemOobBx/F0E+whXvNAsdcR47G6VfDE0OxZRjJM9UxFIPGuXbfQ==",
+  "success": true,
+  "projectFilePath": "D:\\VSPrj\\OOP3\\OOP3\\OOP3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flink\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
