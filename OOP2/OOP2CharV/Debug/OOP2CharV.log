@@ -1,0 +1,5 @@
+﻿  OOP2CharV.cpp
+D:\VSPrj\OOP2\OOP2CharV\OOP2CharV.cpp(108,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VSPrj\OOP2\OOP2CharV\OOP2CharV.cpp(120,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VSPrj\OOP2\OOP2CharV\OOP2CharV.cpp(127,23): warning C4018: <: несоответствие типов со знаком и без знака
+  OOP2CharV.vcxproj -> D:\VSPrj\OOP2\Debug\OOP2CharV.exe

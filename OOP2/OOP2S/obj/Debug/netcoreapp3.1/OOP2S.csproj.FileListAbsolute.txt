@@ -1,0 +1,11 @@
+D:\VSPrj\OOP2\OOP2S\bin\Debug\netcoreapp3.1\OOP2S.exe
+D:\VSPrj\OOP2\OOP2S\bin\Debug\netcoreapp3.1\OOP2S.deps.json
+D:\VSPrj\OOP2\OOP2S\bin\Debug\netcoreapp3.1\OOP2S.runtimeconfig.json
+D:\VSPrj\OOP2\OOP2S\bin\Debug\netcoreapp3.1\OOP2S.runtimeconfig.dev.json
+D:\VSPrj\OOP2\OOP2S\bin\Debug\netcoreapp3.1\OOP2S.dll
+D:\VSPrj\OOP2\OOP2S\bin\Debug\netcoreapp3.1\OOP2S.pdb
+D:\VSPrj\OOP2\OOP2S\obj\Debug\netcoreapp3.1\OOP2S.csprojAssemblyReference.cache
+D:\VSPrj\OOP2\OOP2S\obj\Debug\netcoreapp3.1\OOP2S.AssemblyInfoInputs.cache
+D:\VSPrj\OOP2\OOP2S\obj\Debug\netcoreapp3.1\OOP2S.AssemblyInfo.cs
+D:\VSPrj\OOP2\OOP2S\obj\Debug\netcoreapp3.1\OOP2S.dll
+D:\VSPrj\OOP2\OOP2S\obj\Debug\netcoreapp3.1\OOP2S.pdb
