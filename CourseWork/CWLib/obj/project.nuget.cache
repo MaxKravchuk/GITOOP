@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "azywYKWbswi0rqQToVJrR0Rm6KmKHcJJuXmmQg4kEYdvMiuoO999QDTZaDKEWafpchDY3rGj2tBc/9OfZOPfMg==",
+  "success": true,
+  "projectFilePath": "D:\\VSPrj\\CourseWork\\CWLib\\CWLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flink\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

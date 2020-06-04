@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CW2/1.0.0": {
+        "dependencies": {
+          "CWLib": "1.0.0"
+        },
+        "runtime": {
+          "CW2.dll": {}
+        }
+      },
+      "CWLib/1.0.0": {
+        "runtime": {
+          "CWLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CW2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CWLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\VSPrj\CourseWork\CW2\bin\Debug\netcoreapp3.1\CW2.exe
+D:\VSPrj\CourseWork\CW2\bin\Debug\netcoreapp3.1\CW2.deps.json
+D:\VSPrj\CourseWork\CW2\bin\Debug\netcoreapp3.1\CW2.runtimeconfig.json
+D:\VSPrj\CourseWork\CW2\bin\Debug\netcoreapp3.1\CW2.runtimeconfig.dev.json
+D:\VSPrj\CourseWork\CW2\bin\Debug\netcoreapp3.1\CW2.dll
+D:\VSPrj\CourseWork\CW2\bin\Debug\netcoreapp3.1\CW2.pdb
+D:\VSPrj\CourseWork\CW2\obj\Debug\netcoreapp3.1\CW2.csprojAssemblyReference.cache
+D:\VSPrj\CourseWork\CW2\obj\Debug\netcoreapp3.1\CW2.csproj.CoreCompileInputs.cache
+D:\VSPrj\CourseWork\CW2\obj\Debug\netcoreapp3.1\CW2.AssemblyInfoInputs.cache
+D:\VSPrj\CourseWork\CW2\obj\Debug\netcoreapp3.1\CW2.AssemblyInfo.cs
+D:\VSPrj\CourseWork\CW2\obj\Debug\netcoreapp3.1\CW2.dll
+D:\VSPrj\CourseWork\CW2\obj\Debug\netcoreapp3.1\CW2.pdb
+D:\VSPrj\CourseWork\CW2\obj\Debug\netcoreapp3.1\CW2.genruntimeconfig.cache
+D:\VSPrj\CourseWork\CW2\bin\Debug\netcoreapp3.1\CWLib.dll
+D:\VSPrj\CourseWork\CW2\bin\Debug\netcoreapp3.1\CWLib.pdb
+D:\VSPrj\CourseWork\CW2\obj\Debug\netcoreapp3.1\CW2.csproj.CopyComplete

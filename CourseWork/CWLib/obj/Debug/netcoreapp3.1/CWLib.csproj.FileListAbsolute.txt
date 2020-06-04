@@ -1,0 +1,9 @@
+D:\VSPrj\CourseWork\CWLib\bin\Debug\netcoreapp3.1\CWLib.deps.json
+D:\VSPrj\CourseWork\CWLib\bin\Debug\netcoreapp3.1\CWLib.dll
+D:\VSPrj\CourseWork\CWLib\bin\Debug\netcoreapp3.1\CWLib.pdb
+D:\VSPrj\CourseWork\CWLib\obj\Debug\netcoreapp3.1\CWLib.csproj.CoreCompileInputs.cache
+D:\VSPrj\CourseWork\CWLib\obj\Debug\netcoreapp3.1\CWLib.AssemblyInfoInputs.cache
+D:\VSPrj\CourseWork\CWLib\obj\Debug\netcoreapp3.1\CWLib.AssemblyInfo.cs
+D:\VSPrj\CourseWork\CWLib\obj\Debug\netcoreapp3.1\CWLib.dll
+D:\VSPrj\CourseWork\CWLib\obj\Debug\netcoreapp3.1\CWLib.pdb
+D:\VSPrj\CourseWork\CWLib\obj\Debug\netcoreapp3.1\CWLib.csprojAssemblyReference.cache
